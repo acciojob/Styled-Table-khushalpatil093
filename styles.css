@@ -1,1 +1,12 @@
 /* your code */
+table{
+	width: 100%;
+}
+
+.white{
+	background: whitesmoke;
+}
+
+.blue{
+	background: aliceblue;
+}
