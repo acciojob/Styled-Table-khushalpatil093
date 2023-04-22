@@ -3,6 +3,10 @@ table{
 	width: 100%;
 }
 
+table thead{
+	text-align: left;
+}
+
 .white{
 	background: whitesmoke;
 }
